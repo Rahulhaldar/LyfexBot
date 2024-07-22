@@ -6,7 +6,7 @@
   "env": {
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     "LOG_MSG": {
@@ -21,18 +21,18 @@
     },
     "PREFIX": {
       "description": "prefix, check for more",
-      "required": false,
+      "required": true,
       "value": "."
     },
     "SESSION_ID": {
-      "description": "session id",
+      "description": "22_7_a8bd_c23a_7035",
       "required": true,
       "value": ""
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
-      "required": false,
-      "value": "❤️,LyFE"
+      "required": true,
+      "value": "❤️,Mr.Crazy"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
@@ -89,7 +89,7 @@
     },
     "SS_TOKEN": {
       "description": "token from https://app.screenshotapi.net/dashboard",
-      "required": false,
+      "required": true',
       "value": ""
     },
     "REJECT_CALL": {
@@ -99,7 +99,7 @@
     },
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     "SEND_READ": {
@@ -109,12 +109,12 @@
     },
     "AJOIN": {
       "description": "Accept Group join request(Group privacy)",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "PERSONAL_MESSAGE": {
       "description": "Send a Welcome message on personal chat",
-      "required": false,
+      "required": true,
       "value": "null"
     },
     "DISABLE_START_MESSAGE": {
