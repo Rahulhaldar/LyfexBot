@@ -16,12 +16,12 @@ bot.addCommand(
     })
     const date = new Date()
     let CMD_HELP = `╭────────────────╮
-						ʟᴇᴠᴀɴᴛᴇʀ
+						ᴍʀ.ʀᴀʜᴜʟ😀
 ╰────────────────╯
 
 ╭────────────────
 │ Prefix : ${PREFIX}
-│ User : ${message.pushName}
+│ User : ᴍʀ.ʀᴀʜᴜʟ ʜᴀʟᴅᴀʀ
 │ Time : ${date.toLocaleTimeString()}
 │ Day : ${date.toLocaleString('en', { weekday: 'long' })}
 │ Date : ${date.toLocaleDateString('hi')}
@@ -86,10 +86,10 @@ bot.addCommand(
       }
     })
     const date = new Date()
-    let msg = `\`\`\`╭═══ LEVANTER ═══⊷
+    let msg = `\`\`\`╭═══ ᴍʀ.ʀᴀʜᴜʟ😀 ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${PREFIX}
-┃❃│ User : ${message.pushName}
+┃❃│ User : ᴍʀ.ʀᴀʜᴜʟ ʜᴀʟᴅᴀʀ
 ┃❃│ Time : ${date.toLocaleTimeString()}
 ┃❃│ Day : ${date.toLocaleString('en', { weekday: 'long' })}
 ┃❃│ Date : ${date.toLocaleDateString('hi')}
